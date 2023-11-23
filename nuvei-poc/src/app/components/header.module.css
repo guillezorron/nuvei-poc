@@ -1,0 +1,27 @@
+.headerContainer {
+  padding: 10px;
+  background-color: #DAD9DF;
+  color: #717171;
+  display: flex;
+}
+
+.headerItem {
+  margin: 0 10px;
+  cursor: pointer;
+  display: flex;
+}
+
+.headerHome {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.headerActions {
+  position: absolute;
+  display: flex;
+  right: 0;
+}
+
+.icon {
+  margin: 0 5px;
+}
